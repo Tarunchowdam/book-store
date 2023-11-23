@@ -37,15 +37,17 @@ Analytics: Generate reports and analytics on sales, popular genres, and more.
 Content Management: Admins can manage static content, such as homepage banners and featured books.
 
 
-Technologies Used
-Frontend:
+**Technologies Used:**
+
+_Frontend:_
 
 HTML5
 CSS3
 Bootstrap 5
 JavaScript 
 
-Backend:
+_Backend:_
+
 PHP 
 MYSQL(Data sotre)
 
